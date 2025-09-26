@@ -22,13 +22,5 @@ A results-driven Senior React Developer with **4+ years** of experience architec
 *   Exploring advanced state management patterns and build tooling (Turbopack, Vite).
 *   Improving user experience through advanced accessibility (a11y) practices.
 
-## 📫 Let's Connect
-
-I'm always open to discussing new opportunities, interesting projects, or tech collaborations.
-
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Email:** [Your Professional Email]
-*   **Portfolio/Blog:** [Your Website URL (optional)]
-
 ---
 ⚡ **Fun fact:** I've probably refactored more `useEffect` hooks than I've written new ones.
